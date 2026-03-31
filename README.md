@@ -110,7 +110,9 @@ StudentGradeSystem/
 
 ## Author
 
-**[Manmeet]**  
+**[Manmeet Walmik Sonawane
+reg no-24BAI10180
+slot-E11+E12]**  
 Course: Programming in Java — BYOP Project  
 Platform: VITyarthi  
 
